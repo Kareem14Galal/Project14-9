@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 def subtract(a, b):
     return a - b
@@ -14,4 +15,8 @@ def add_numbers(a, b):
     return a + b
 
 
+
+
+def mod2nums(a,b):
+   return a%b
 
